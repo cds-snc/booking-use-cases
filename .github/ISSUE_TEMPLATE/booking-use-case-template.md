@@ -14,11 +14,13 @@ Number of potential end users:
 Currently offering appointments: (yes, no)
 Where does/could the appointment fit in the service journey?:
 Does the service require payment?: (yes, no)
+Contact: (email address)
 
-## The following only apply if appointments are currently offered
+*The following only apply if appointments are currently offered*
 
 Appointment channel: (in person, phone, video call)
 Booking channel: (mail, email, online service, phone)
 What personal information do people need to provide to book the appointment?: (name, case number, passport, documents)
 Appointment booking: (made in real time, requires confirmation, assigned by govt)
 Does frontline worker do appointments for multiple services?: (yes, no)
+What system is used to manage frontline workers time? (outlook, custom software, paper files, etc)
