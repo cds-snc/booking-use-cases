@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 Brief description of use case: 
-
+Service URL:
 End user: (Canadian resident, public servant, etc)
 Number of potential end users: 
 Currently offering appointments: (yes, no)
@@ -20,6 +20,7 @@ Contact: (email address)
 
 Appointment channel: (in person, phone, video call)
 Booking channel: (mail, email, online service, phone)
+Booking URL:
 What personal information do people need to provide to book the appointment?: (name, case number, passport, documents)
 Appointment booking: (made in real time, requires confirmation, assigned by govt)
 Does frontline worker do appointments for multiple services?: (yes, no)
