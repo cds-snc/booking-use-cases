@@ -15,6 +15,7 @@ assignees: ''
 **Where does/could the appointment fit in the service journey?:**
 **Does the service require payment?:** (yes, no)
 **Contact:** (email address, slack)
+**Service standards that could apply or be affected:**
 
 *The following only apply if appointments are currently offered*
 
