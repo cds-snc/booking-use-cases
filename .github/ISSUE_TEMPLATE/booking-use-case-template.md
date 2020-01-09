@@ -17,7 +17,7 @@ assignees: ''
 **Contact:** (email address, slack)
 **Service standards that could apply or be affected:**
 
-*The following only apply if appointments are currently offered*
+_The following only apply if appointments are currently offered_
 
 **Appointment channel:** (in person, phone, video call)
 **Booking channel:** (mail, email, online service, phone)
